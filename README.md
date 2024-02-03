@@ -1,6 +1,6 @@
 # Projeto Android
 
-<p>Este projeto foi desenvolvido no cruso de HTML e CSS do curso em vídeo com Gustavo Guanabara</p>
+<p>Este projeto foi desenvolvido no curso de HTML e CSS do curso em vídeo com Gustavo Guanabara</p>
 
 <p>É uma página criada apenas com HTML e CSS contando a história de como surgiu o mascote Android</p>
 
